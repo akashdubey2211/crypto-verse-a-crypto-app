@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/crypto-verse-a-crypto-app/static/css/main.1b8c027c.chunk.css",
+    "main.js": "/crypto-verse-a-crypto-app/static/js/main.7906a1e1.chunk.js",
+    "main.js.map": "/crypto-verse-a-crypto-app/static/js/main.7906a1e1.chunk.js.map",
+    "runtime-main.js": "/crypto-verse-a-crypto-app/static/js/runtime-main.e68bff84.js",
+    "runtime-main.js.map": "/crypto-verse-a-crypto-app/static/js/runtime-main.e68bff84.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/crypto-verse-a-crypto-app/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.5ecedd6a.chunk.js": "/crypto-verse-a-crypto-app/static/js/2.5ecedd6a.chunk.js",
+    "static/js/2.5ecedd6a.chunk.js.map": "/crypto-verse-a-crypto-app/static/js/2.5ecedd6a.chunk.js.map",
+    "index.html": "/crypto-verse-a-crypto-app/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/crypto-verse-a-crypto-app/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.1b8c027c.chunk.css.map": "/crypto-verse-a-crypto-app/static/css/main.1b8c027c.chunk.css.map",
+    "static/js/2.5ecedd6a.chunk.js.LICENSE.txt": "/crypto-verse-a-crypto-app/static/js/2.5ecedd6a.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.1548aced.png": "/crypto-verse-a-crypto-app/static/media/cryptocurrency.1548aced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e68bff84.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.5ecedd6a.chunk.js",
+    "static/css/main.1b8c027c.chunk.css",
+    "static/js/main.7906a1e1.chunk.js"
+  ]
+}
